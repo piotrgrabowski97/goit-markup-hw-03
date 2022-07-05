@@ -63,6 +63,7 @@ body {
 
 .header {
   width: 1600px;
+  height: 80px;
   border-bottom: 1px solid var(--border-header);
   background-color: var(--white-color);
 }

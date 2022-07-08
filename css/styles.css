@@ -210,6 +210,7 @@ body {
 
 .main-text-list {
   display: flex;
+  justify-content: space-between;
   gap: 30px;
 }
 
@@ -240,7 +241,6 @@ body {
 .main-image-list {
   display: flex;
   justify-content: space-between;
-  gap: 30px;
 }
 
 /* third section */
@@ -265,7 +265,6 @@ body {
 .team-list {
   display: flex;
   justify-content: space-between;
-  gap: 30px;
 }
 
 .team-card {
